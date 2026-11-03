@@ -51,12 +51,18 @@ Kali terminalinin açılması ve `uid=0` görülmesi, NetHunter Full özellikler
 - [ ] Paket güncelleme durumunu kontrol etmek.
 - [ ] Misafir ağı ile ana ağ arasındaki izolasyonu izinli laboratuvar kapsamında doğrulamak.
 - [ ] Desteklenen donanım özelliklerini ayrı ayrı test edip sonuçlarını belgelemek.
-- [ ] Kurulum ekran görüntülerini inceleyip hassas bilgileri kaldırdıktan sonra eklemek.
+- [x] Güncelleme ve ağ testlerinden seçilmiş 4 ekran fotoğrafını inceleyip açıklamalarıyla eklemek.
 
 ## Kanıt ve kayıt durumu
 
-Bu özet, çalışma sırasında paylaşılan kurulum bilgileri ve kullanıcı bildirimlerinden hazırlanmıştır; cihazın canlı denetimi değildir. Ham terminal çıktıları ve ekran görüntüleri henüz bu depoya eklenmemiştir. Kesin nedenleri belirlenmemiş hata mesajları için çözüm veya kök neden iddiasında bulunulmaz.
+Bu özet, çalışma sırasında paylaşılan kurulum bilgileri ve kullanıcı bildirimlerinden hazırlanmıştır; cihazın canlı denetimi değildir. Seçilmiş 4 ekran fotoğrafı açıklamalarıyla [kanıt galerisinde](evidence/README.md) yayımlanmıştır. Ham terminal metinleri henüz eklenmemiştir. Kesin nedenleri belirlenmemiş hata mesajları için çözüm veya kök neden iddiasında bulunulmaz.
 
 Paylaşılacak kanıtlarda parola, erişim anahtarı, oturum bilgisi ve kişisel ağ tanımlayıcıları bulunmamalıdır.
 
-Son dokümantasyon güncellemesi: 2 Kasım 2026.
+## Ekran görüntüleri
+
+[Numaralı kanıt galerisini aç](evidence/README.md).
+
+Galeri; paket güncelleme çıktısı, misafir ağı bağlantısı ve iki yerel ping testini içerir. Güncelleme çıktısındaki hata mesajları korunmuştur; misafir ağı izolasyonu başarılı olarak değerlendirilmemiştir.
+
+Son dokümantasyon güncellemesi: 3 Kasım 2026.
