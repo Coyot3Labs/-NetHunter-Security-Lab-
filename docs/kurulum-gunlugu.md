@@ -91,6 +91,6 @@ Bu kanıt Android/Termux root kabuğuna aittir. Kali ortamındaki kullanıcı ki
 
 ## Görsellerin işlenmesi
 
-Görseller 05–08 olarak adlandırıldı. EXIF/açıklama metaverileri kaldırıldı; görüntü piksellerinin kaynaklarla aynı kaldığı kontrol edildi. Terminal yazıları yeniden üretilmedi. Kişisel tanımlayıcı içeren fastboot fotoğrafı yayımlanmadı.
+Görseller 05–08 olarak adlandırıldı ve yalnızca ilgili cihaz ekranı kalacak şekilde kırpıldı; eğik çekimlerde perspektif düzeltildi. EXIF/açıklama metaverileri kaldırıldı. Bunlar düzenlenmiş sunum kopyalarıdır; özgün fotoğraflar önceki Git sürümünde bulunur. Terminal yazıları yeniden üretilmedi; yazıların altındaki yansımalar korundu. Kaynakta kadraj dışında kalan içerik tamamlanmadı. Kişisel tanımlayıcı içeren fastboot fotoğrafı yayımlanmadı.
 
 [Proje ana sayfası](../README.md) · [Güncelleme ve ağ galerisi](../evidence/README.md)

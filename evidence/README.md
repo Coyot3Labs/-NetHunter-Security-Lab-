@@ -4,7 +4,7 @@
 
 Paylaşılan 15 ekran fotoğrafı incelendi; güncelleme ve ağ testlerini temsil eden 4 görüntü seçildi. Modem yönetim ekranları ve MAC/IPv6 adreslerini içeren ağ ayrıntıları bu galeriye alınmadı.
 
-Görseller numaralandırıldı; EXIF ve diğer açıklama metaverileri kaldırıldı. Görüntüler yeniden üretilmedi, kırpılmadı veya rötuşlanmadı. Kaynak ve yayımlanan dosyaların çözülmüş piksellerinin aynı olduğu kontrol edildi. Aşağıdaki numaralar sunum sırasıdır; çekim zamanının kesin kanıtı değildir.
+Görseller ekran içeriğine kırpıldı; dışarıdaki el, masa, telefon çerçevesi ve gereksiz klavye alanları çıkarıldı. Eğik çekimlerde perspektif düzeltildi. EXIF ve açıklama metaverileri kaldırıldı. Yazılar yeniden üretilmedi; yazıların altındaki ekran yansımaları korundu. Bu dosyalar düzenlenmiş sunum kopyalarıdır; özgün fotoğraflar önceki Git sürümünde bulunur. Aşağıdaki numaralar sunum sırasıdır; çekim zamanının kesin kanıtı değildir.
 
 ## 01 — Paket güncelleme çıktısı
 
@@ -34,13 +34,13 @@ Ekranda hem `192.168.1.1` hem `192.168.1.5` için 4/4 yanıt ve %0 kayıp görü
 
 ## Dosya bütünlüğü
 
-SHA-256 değerleri yayımlanan, metaverisi temizlenmiş dosyalara aittir.
+SHA-256 değerleri yayımlanan, kırpılmış ve metaverisi temizlenmiş sunum kopyalarına aittir.
 
 | Dosya | SHA-256 |
 | --- | --- |
-| 01_nethunter_paket_guncelleme.jpeg | `2fd2a41bcb9b09905e7e667f7282694c9664c34663f32ed499d9545228f842e1` |
-| 02_android_misafir_agi.jpeg | `6b856d43420c4684f00f5ed304d91931d503ceb06ae20223134a09f6da0b3178` |
-| 03_nethunter_ag_gecidi_ping.jpeg | `4a4b5553ebf84dfb32c6b0fd8077868af5f9644231c26e47b474c3a3b2bbf19d` |
-| 04_nethunter_yerel_hedef_ping.jpeg | `77817573bb7b5ec98f5092dd76f6b3e18ad705d6de5cfcb06b3c74f8e9644ea9` |
+| 01_nethunter_paket_guncelleme.jpeg | `69e2f15fbe15556ce3b23ce263a533781cc8765ea67da7fc089174962901aabe` |
+| 02_android_misafir_agi.jpeg | `95dd1d5ae189500de8898c389ff8ae5b322b35176ba4f75fff82fb5764319976` |
+| 03_nethunter_ag_gecidi_ping.jpeg | `4d86565a60b02bad1233d9f57164f65fd5d3c31b34bb09dd126802dc69681930` |
+| 04_nethunter_yerel_hedef_ping.jpeg | `e896b444709552815ccfea850e267dabed0418a3dc746acbac34bad9d6dc0ecc` |
 
 [Proje ana sayfasına dön](../README.md)
