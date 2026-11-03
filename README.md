@@ -21,6 +21,10 @@ Testler yalnızca sahip olunan veya açıkça izin verilen sistemlerde yapılır
 | Terminal ortamı | Termux ve NetHunter terminali |
 | Kali erişimi | Kali terminalinin açıldığı ve `uid=0` çıktısı alındığı kullanıcı tarafından bildirildi |
 
+## Ayrıntılı kurulum günlüğü
+
+[MIUI, boot/TWRP, ArrowOS, Magisk ve NetHunter kurulum günlüğünü aç](docs/kurulum-gunlugu.md). Yeni seçilen 4 fotoğraf; başlangıç sürümünü, TWRP açılışını, boot imajı yamalamayı ve Termux root erişimini gösterir.
+
 ## Kurulum ve sorun giderme özeti
 
 1. TWRP dosyasının SHA-256 doğrulaması yapıldı; ArrowOS Android 13 kuruldu.
@@ -55,7 +59,7 @@ Kali terminalinin açılması ve `uid=0` görülmesi, NetHunter Full özellikler
 
 ## Kanıt ve kayıt durumu
 
-Bu özet, çalışma sırasında paylaşılan kurulum bilgileri ve kullanıcı bildirimlerinden hazırlanmıştır; cihazın canlı denetimi değildir. Seçilmiş 4 ekran fotoğrafı açıklamalarıyla [kanıt galerisinde](evidence/README.md) yayımlanmıştır. Ham terminal metinleri henüz eklenmemiştir. Kesin nedenleri belirlenmemiş hata mesajları için çözüm veya kök neden iddiasında bulunulmaz.
+Bu özet, çalışma sırasında paylaşılan kurulum bilgileri ve kullanıcı bildirimlerinden hazırlanmıştır; cihazın canlı denetimi değildir. Toplam 8 seçilmiş ekran fotoğrafı [kurulum günlüğünde](docs/kurulum-gunlugu.md) ve [güncelleme/ağ galerisinde](evidence/README.md) yayımlanmıştır. Ham terminal metinleri henüz eklenmemiştir. Kesin nedenleri belirlenmemiş hata mesajları için çözüm veya kök neden iddiasında bulunulmaz.
 
 Paylaşılacak kanıtlarda parola, erişim anahtarı, oturum bilgisi ve kişisel ağ tanımlayıcıları bulunmamalıdır.
 

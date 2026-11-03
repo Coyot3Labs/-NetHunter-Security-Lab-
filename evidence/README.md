@@ -1,5 +1,7 @@
 # Ekran görüntüleri ve gözlemler
 
+**Kurulum fotoğrafları 05–08:** [MIUI, TWRP, Magisk ve root erişimi günlüğü](../docs/kurulum-gunlugu.md).
+
 Paylaşılan 15 ekran fotoğrafı incelendi; güncelleme ve ağ testlerini temsil eden 4 görüntü seçildi. Modem yönetim ekranları ve MAC/IPv6 adreslerini içeren ağ ayrıntıları bu galeriye alınmadı.
 
 Görseller numaralandırıldı; EXIF ve diğer açıklama metaverileri kaldırıldı. Görüntüler yeniden üretilmedi, kırpılmadı veya rötuşlanmadı. Kaynak ve yayımlanan dosyaların çözülmüş piksellerinin aynı olduğu kontrol edildi. Aşağıdaki numaralar sunum sırasıdır; çekim zamanının kesin kanıtı değildir.
